@@ -49,4 +49,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 gem 'bootstrap', '~> 4.0.0alpha3.1'
-gem 'react-rails'#, '2.3-stable'
+gem 'react-rails', '~> 1.9.0'
+
+gem 'responders'
